@@ -1,0 +1,138 @@
+body {
+  font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+/* ここからCSSを書いていきましょう */
+.container{
+  width:1170px;
+  margin:auto;
+}
+
+.header{
+	height:56px;
+	width:100%;
+	background-color:#ffefef;
+	position:fixed;
+	top:0;
+}
+
+.header-right a{
+	float:right;
+	line-height:22px;
+	display:inline-block;
+	margin-left:10px;
+	padding:16px 5px;
+		color:black;
+	
+}
+
+
+	
+
+	
+	
+	.about{
+		padding:200px 60px;
+		color:#000000;
+		height:800px;
+		 background-color: #f7f7f7;
+        text-align: center;
+		
+	}
+		.images{
+		
+		margin-bottom:30px;
+		display:inline-block;
+	}	
+	
+	.me{
+		float:left;
+		
+		margin-right:15px;
+	}
+	
+
+	.clear{
+	clear:both;
+}
+
+.ddd{
+	
+	 padding-top: 60px;
+     padding-bottom: 30px;
+    color: #5f5d60;
+
+     font-weight:normal;
+     letter-spacing:5px;
+     
+	 margin-bottom:30px;
+}
+
+	.clear{
+	clear:both;
+}
+
+	
+	.me-wrapper h3{
+	
+	margin-top:20px;	
+     font-weight:bold;
+	
+	}
+	
+     
+
+
+
+
+
+
+
+
+
+
+
+.clear{
+	clear:both;
+}
+
+
+	
+		
+	
+	
+	
+	
+	
+	
+footer{
+	height:100px;
+	background-color:#ffefef;
+	color:black;
+margin-bottom:5px;
+
+}
+
+.footer-left{
+	float:left;
+	
+}
+
+.footer-right{
+	float:right;
+	padding-top:15px;
+	
+}
+.footer-left p{
+	margin-bottom:5px;
+	
+}
